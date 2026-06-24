@@ -134,7 +134,7 @@ export default function Receptionist() {
             type="password"
             value={pin}
             onChange={(e) => setPin(e.target.value)}
-            placeholder="Enter PIN"
+            placeholder="Demo PIN: 1234"
             style={{
               width: '100%',
               padding: '10px 14px',
