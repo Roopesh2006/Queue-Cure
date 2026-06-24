@@ -179,3 +179,8 @@ To prevent Render Free tier from sleeping:
 
 - [`docs/socket-events.md`](docs/socket-events.md) — full socket event diagram and payload shapes
 - [`docs/thought-process.md`](docs/thought-process.md) — concurrency approach, edge cases handled, design decisions
+
+## Demo Access
+- **Receptionist PIN:** `1234`
+- Receptionist screen: `https://queue-cure-1-ihym.onrender.com/receptionist`
+- Patient waiting room: `https://queue-cure-1-ihym.onrender.com/waiting?token=TOKEN_NUMBER`
